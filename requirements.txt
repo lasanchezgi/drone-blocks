@@ -1,0 +1,2 @@
+DroneBlocksTelloSimulator==0.0.7
+paho-mqtt==1.6.1
