@@ -1,5 +1,4 @@
 # Laura Alejandra Sánchez Giraldo
-## CC. 1152460860
 
 from DroneBlocksTelloSimulator.DroneBlocksSimulatorContextManager import DroneBlocksSimulatorContextManager
 
